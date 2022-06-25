@@ -16,6 +16,9 @@ const HTMLFooter = () => {
 )
 } 
 
+
+// below are three sections for class-based functions to generate, add, and write cards for the three subclasses: manager, engineer, and intern
+
 // ----------------------------------------------------------------------------------------
 // Manager Section
 
@@ -80,7 +83,7 @@ const generateManager = (data) => {
                         ${data.email}
                         </a>                    
                         <div class="officeNumber text">
-                        ${data.officeNumber}
+                        ${data.officenumber}
                         </div>
                     </section>
                 </section>`;
