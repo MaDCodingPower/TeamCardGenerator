@@ -24,6 +24,9 @@ like to continue building your team roster. If you are done, just select 'finish
 
 ## Screenshots: 
 
+
 ![Week10-1](https://user-images.githubusercontent.com/102272276/175770070-995db246-bc1c-4858-a435-dddb784d9681.PNG)
+
+------------------------------------
 
 ![Week10-2](https://user-images.githubusercontent.com/102272276/175770074-92f513fa-aad6-4b62-8bef-93692db0dd6d.PNG)
